@@ -1,0 +1,18 @@
+2020-10-26 12:34:57,997 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 12:34:59,116 - log_udp_client - INFO - Comenzando transferencia
+2020-10-26 12:34:59,265 - log_udp_client - INFO - Transferencia finalizada en 147.603 ms
+2020-10-26 12:34:59,315 - log_udp_client - INFO - Los hashes coinciden
+2020-10-26 12:36:16,873 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 12:36:17,549 - log_udp_client - INFO - Comenzando transferencia
+2020-10-26 12:36:17,696 - log_udp_client - INFO - Transferencia finalizada en 146.607 ms
+2020-10-26 12:36:17,747 - log_udp_client - INFO - Los hashes coinciden
+2020-10-26 20:58:56,808 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 20:59:39,168 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 21:00:38,066 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 21:00:58,711 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 21:04:32,031 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 21:17:02,305 - log_udp_client - INFO - UDP Cliente conectado al servidor
+2020-10-26 21:19:27,680 - log_udp_client - INFO - Comenzando transferencia
+2020-10-26 21:19:50,671 - log_udp_client - INFO - Comenzando transferencia
+2020-10-26 21:20:52,509 - log_udp_client - INFO - Comenzando transferencia
+2020-10-27 14:20:15,152 - log_udp_client - INFO - UDP Cliente conectado al servidor

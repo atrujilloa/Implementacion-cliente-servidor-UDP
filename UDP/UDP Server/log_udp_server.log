@@ -1,0 +1,80 @@
+2020-10-26 12:36:16,873 - log_udp_server - INFO - Conexión recibida desde ('192.168.0.28', 58729)
+2020-10-26 12:36:17,506 - log_udp_server - INFO - El cliente pidió el archivo 2
+2020-10-26 12:36:17,549 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 12:36:17,696 - log_udp_server - INFO - Finalizó la transferencia del archivo en  146.607
+2020-10-26 12:36:17,696 - log_udp_server - INFO - Cliente ('192.168.0.28', 58729) desconectado.
+2020-10-26 20:59:39,168 - log_udp_server - INFO - Conexión recibida desde ('192.168.0.28', 59413)
+2020-10-26 21:00:58,711 - log_udp_server - INFO - Conexión recibida desde ('192.168.0.28', 51074)
+2020-10-26 21:18:24,338 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:19:12,552 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:19:27,633 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:19:27,680 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 21:19:27,878 - log_udp_server - INFO - Finalizó la transferencia del archivo en  197.435
+2020-10-26 21:19:50,625 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:19:50,671 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 21:19:50,873 - log_udp_server - INFO - Finalizó la transferencia del archivo en  201.433
+2020-10-26 21:20:52,463 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:20:52,509 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 21:20:52,701 - log_udp_server - INFO - Finalizó la transferencia del archivo en  191.999
+2020-10-26 21:26:13,773 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:26:42,667 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:42:19,591 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:42:19,641 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 21:42:19,792 - log_udp_server - INFO - Finalizó la transferencia del archivo en  150.649
+2020-10-26 21:49:54,720 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-26 21:49:54,766 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-26 21:49:54,972 - log_udp_server - INFO - Finalizó la transferencia del archivo en  204.134
+2020-10-27 14:06:31,858 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:06:31,905 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:06:32,072 - log_udp_server - INFO - Finalizó la transferencia del archivo en  166.527
+2020-10-27 14:07:33,592 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:07:33,637 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:07:33,796 - log_udp_server - INFO - Finalizó la transferencia del archivo en  158.255
+2020-10-27 14:08:23,060 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:08:23,105 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:08:23,264 - log_udp_server - INFO - Finalizó la transferencia del archivo en  158.576
+2020-10-27 14:08:57,325 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:08:57,375 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:08:57,538 - log_udp_server - INFO - Finalizó la transferencia del archivo en  162.538
+2020-10-27 14:09:57,156 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:09:57,203 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:09:57,362 - log_udp_server - INFO - Finalizó la transferencia del archivo en  158.576
+2020-10-27 14:10:34,784 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:10:34,827 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:10:39,692 - log_udp_server - INFO - Finalizó la transferencia del archivo en  4865.677
+2020-10-27 14:11:05,830 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:11:05,875 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:11:10,782 - log_udp_server - INFO - Finalizó la transferencia del archivo en  4905.500
+2020-10-27 14:12:00,182 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:12:00,227 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:12:00,399 - log_udp_server - INFO - Finalizó la transferencia del archivo en  171.715
+2020-10-27 14:13:27,971 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:13:28,015 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:13:28,184 - log_udp_server - INFO - Finalizó la transferencia del archivo en  168.638
+2020-10-27 14:14:25,683 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:14:25,730 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:14:25,896 - log_udp_server - INFO - Finalizó la transferencia del archivo en  166.553
+2020-10-27 14:20:48,547 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:20:48,591 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:21:15,586 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:21:15,629 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:22:33,182 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:22:33,226 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:22:54,148 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:22:54,192 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:23:19,603 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:23:19,652 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:23:23,335 - log_udp_server - INFO - Finalizó la transferencia del archivo en  3682.987
+2020-10-27 14:24:11,491 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:24:11,535 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:24:15,274 - log_udp_server - INFO - Finalizó la transferencia del archivo en  3739.347
+2020-10-27 14:40:10,946 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 14:40:10,998 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 14:40:14,483 - log_udp_server - INFO - Finalizó la transferencia del archivo en  3485.170
+2020-10-27 14:58:27,195 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 15:00:09,131 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 15:00:09,183 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 15:00:13,051 - log_udp_server - INFO - Finalizó la transferencia del archivo en  3868.519
+2020-10-27 19:29:03,457 - log_udp_server - INFO - El cliente pidió el archivo 1
+2020-10-27 19:29:03,498 - log_udp_server - INFO - Comenzó la transferencia del archivo
+2020-10-27 19:29:07,124 - log_udp_server - INFO - Finalizó la transferencia del archivo en  3625.803
